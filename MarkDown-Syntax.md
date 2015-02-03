@@ -1,6 +1,7 @@
 MarkDown(笔记)
 =
-复制[链接](http://www.cnblogs.com/hnrainll/p/3514637.html)
+本文是从这个博客中复制 [链接](http://www.cnblogs.com/hnrainll/p/3514637.html)
+多谢。
 
 ## 1. 标题设置（让字体变大，和word的标题意思一样）
 
